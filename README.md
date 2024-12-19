@@ -29,11 +29,11 @@ To set up the project, follow these steps:
 ## Usage
 
 2. To train the model, run the following command:
-```bash
+
    python train.py --config config.yaml
 
 3. To evaluate the model, use:
-```bash
+
    python evaluate.py --model path/to/saved_model --data path/to/dataset
 
 
