@@ -42,6 +42,8 @@ To set up the project, follow these steps:
 The project utilizes several face verification datasets. Ensure you have the datasets downloaded and properly formatted before running the training or evaluation scripts. The datasets used in this project include:
 
    Training Dataset: MS1Mv2
+
+   
    Test Datasets: LFW, Megaface, IJB-B, CALFW, and CPLFW
 
 For more details on dataset preparation, please refer to the documentation in the respective scripts.
