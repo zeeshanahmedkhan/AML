@@ -9,8 +9,7 @@ The AMD-FV project implements the Adaptive Margin Loss (AML) and Dual Path Netwo
 - [Usage](#usage)
 - [Datasets](#datasets)
 - [Results](#results)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 - Implementation of the Adaptive Margin Loss (AML) for improved face verification accuracy.
