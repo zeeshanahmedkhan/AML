@@ -27,13 +27,9 @@ To set up the project, follow these steps:
 
 ## Usage
 
-2. To train the model, run the following command:
+2. To train the model, run AMD-FV/main/AMD.py
 
-   python train.py --config config.yaml
-
-3. To evaluate the model, use:
-
-   python evaluate.py --model path/to/saved_model --data path/to/dataset
+3. To validate the model, run AMD-FV/main/validate.py
 
 
 ## Datasets
