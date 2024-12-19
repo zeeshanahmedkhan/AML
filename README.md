@@ -1,7 +1,7 @@
 # AMD-FV: Adaptive Margin Loss and Dual Path Network+ for Deep Face Verification
 
 ## Overview
-The AMD-FV project implements the Adaptive Margin Loss (AML) and Dual Path Network+ (DPN+) architectures for face verification tasks. This repository contains the code, datasets, and scripts necessary to reproduce the experiments and results reported in the paper "AMD-FV: Adaptive Margin Loss and Dual Path Network+ for Deep Face Verification."
+The AMD-FV project implements the Adaptive Margin Loss (AML) and Dual Path Network+ (DPN+) architectures for face verification tasks. This repository contains the code, datasets (download paths), and scripts necessary to reproduce the experiments and results reported in the paper "AMD-FV: Adaptive Margin Loss and Dual Path Network+ for Deep Face Verification."
 
 ## Table of Contents
 - [Features](#features)
@@ -30,11 +30,11 @@ To set up the project, follow these steps:
 
 To train the model, run the following command:
 ```bash
-python train.py --config config.yaml
+   python train.py --config config.yaml
 
 To evaluate the model, use:
 ```bash
-python evaluate.py --model path/to/saved_model --data path/to/dataset
+   python evaluate.py --model path/to/saved_model --data path/to/dataset
 
 
 ## Datasets
